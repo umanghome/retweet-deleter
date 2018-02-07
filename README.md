@@ -10,7 +10,7 @@ Also I can add `#nodelete` to a tweet to make this script skip deleting it.
 
 # How
 
-- Make an [app on Twitter](app.twitter.com), get your app's Consumer Key and Consumer Secret.
+- Make an [app on Twitter](https://apps.twitter.com), get your app's Consumer Key and Consumer Secret.
 - Authenticate your user with the app, get your Access Token and Access Token Secret.
 - Clone this repo and `cd` into it.
 - Plug these in `constants.js` along with your `screen_name` (Twitter handle).
