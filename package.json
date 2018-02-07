@@ -1,0 +1,14 @@
+{
+  "name": "retweet-deleter",
+  "version": "1.0.0",
+  "description": "Delete Tweets posted as Retweets from Facebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umang Galaiya",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
